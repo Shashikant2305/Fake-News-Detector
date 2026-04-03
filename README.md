@@ -319,7 +319,7 @@ This project is open source and available for educational and research purposes.
 
 ## 👨‍💻 Author
 
-Created by **Ujjwal** - AI & Machine Learning Enthusiast
+Created by **Shashikant Kesharwani ** - AI & Machine Learning Enthusiast
 
 ## 📞 Support
 
